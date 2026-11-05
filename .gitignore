@@ -3,3 +3,8 @@ __pycache__/
 .venv/
 venv/
 .env
+
+# Coverage reports
+.coverage
+.coverage.*
+htmlcov/
